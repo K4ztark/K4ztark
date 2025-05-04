@@ -22,3 +22,6 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K4ztark&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="K4ztark" height="230px"/>
 <br/>
 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
