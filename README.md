@@ -14,5 +14,11 @@
 - :computer: I am a competitive programmer at `Codewars`.
 - :student: I’m currently studying `Computer Science`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MYLINKEDIN]([http://lnkiy.in/Ahmed_Hossam_Resume](https://www.linkedin.com/in/juan-esteban-casta%C3%B1eda-hincapi%C3%A9-20306125a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkrBK24WNQc%2BqcDYAe%2BtY8w%3D%3D)).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](linkedin.com/in/juan-esteban-castañeda-hincapié-20306125a).
 <br>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="K4ztark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K4ztark&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K4ztark&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="K4ztark" height="230px"/>
+<br/>
+
