@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :mortar_board: I'm a student at the Universidad Nacional de Colombia
+- :mortar_board: I'm a student at Universidad Nacional de Colombia
 - :technologist: I love using AI as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codewars`.
 - :student: I’m currently studying `Computer Science`.
