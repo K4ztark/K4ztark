@@ -14,7 +14,7 @@
 - :computer: I am a competitive programmer at `Codewars`.
 - :student: I’m currently studying `Computer Science`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](linkedin.com/in/juan-esteban-castañeda-hincapié-20306125a).
+- :thinking: I’m currently open for a new `job opportunity`, this is [LinkedIn](https://www.linkedin.com/in/juan-esteban-castañeda-hincapié-20306125a/).
 <br>
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
