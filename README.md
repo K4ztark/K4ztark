@@ -16,6 +16,7 @@
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](linkedin.com/in/juan-esteban-castañeda-hincapié-20306125a).
 <br>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="K4ztark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K4ztark&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
@@ -24,4 +25,4 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
+</details>
