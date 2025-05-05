@@ -27,5 +27,5 @@
   </p>
 </details>
 
-## 🐍 Contribuciones
+## 🐍 Contributions
 ![snake gif](https://github.com/K4ztark/K4ztark/blob/output/github-snake-dark.svg)
