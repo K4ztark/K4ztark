@@ -11,7 +11,6 @@
 
 - :mortar_board: I'm a student at Universidad Nacional de Colombia
 - :technologist: I love using programming and math as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codewars`.
 - :student: I’m currently studying `Computer Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn](https://www.linkedin.com/in/juan-esteban-castañeda-hincapié-20306125a/).
