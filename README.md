@@ -10,7 +10,7 @@
 <br><br>
 
 - :mortar_board: I'm a student at Universidad Nacional de Colombia
-- :technologist: I love using AI as a solution for every `Problem`.
+- :technologist: I love using programming and math as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codewars`.
 - :student: I’m currently studying `Computer Science`.
 - :nerd_face: Always `learning new things`.
